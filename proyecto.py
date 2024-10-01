@@ -6,7 +6,7 @@ import time
 
 # Configuración de la conexión
 user = "root"
-password = "Maicha12345#"
+password = "******" # Tu contraseña 
 host = 'localhost'
 database = "us_airline_db"
 connection_string = f'mysql+mysqlconnector://{user}:{password}@{host}/{database}'
